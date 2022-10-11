@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/git-proctice/static/css/main.073c9b0a.css",
-    "main.js": "/git-proctice/static/js/main.8540dadc.js",
+    "main.css": "/git-proctice/static/css/main.5454b953.css",
+    "main.js": "/git-proctice/static/js/main.a8f4e0e2.js",
     "index.html": "/git-proctice/index.html",
-    "main.073c9b0a.css.map": "/git-proctice/static/css/main.073c9b0a.css.map",
-    "main.8540dadc.js.map": "/git-proctice/static/js/main.8540dadc.js.map"
+    "main.5454b953.css.map": "/git-proctice/static/css/main.5454b953.css.map",
+    "main.a8f4e0e2.js.map": "/git-proctice/static/js/main.a8f4e0e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8540dadc.js"
+    "static/css/main.5454b953.css",
+    "static/js/main.a8f4e0e2.js"
   ]
 }
